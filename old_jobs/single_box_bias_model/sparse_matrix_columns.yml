@@ -1,0 +1,53 @@
+---
+account:
+- 3677
+- 4102
+ad: []
+advertiser_account:
+- 1
+age:
+- 0
+banner_type:
+- 1
+campaign: []
+carrier:
+- 145
+channel:
+- 1
+country:
+- 64
+date:
+- 1294
+device:
+- 1798
+- 4003
+earnings:
+- 0
+gender:
+- 0
+geo_target:
+- 399
+gps_is_precise:
+- false
+ip:
+- 174.019.137.001
+- 181.112.236.001
+location:
+- 0
+mraid:
+- false
+plattform:
+- 32
+requester:
+- API (html,v1)
+rtb:
+- true
+site:
+- 34698
+- 75122
+weekday:
+- Thursday
+ua:
+- 247006920922414803
+- 1002539825826374964
+user_token: []

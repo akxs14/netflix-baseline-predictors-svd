@@ -1,0 +1,9 @@
+# encoding: utf-8
+
+require 'bundler/setup'
+require 'rubydoop/package'
+
+task :package do
+  job_package = Rubydoop::Package.new
+  job_package.create!
+end

@@ -1,0 +1,5 @@
+require 'rubydoop/package'
+
+task :package do
+  Rubydoop::Package.new.create!
+end

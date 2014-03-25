@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+# this one needs to be the first gem
+gem 'jbundler', :platforms => :jruby
+
+gem 'json'
+
+group :development, :test do
+  gem 'simplecov'
+  gem 'rspec'
+end
